@@ -5,10 +5,3 @@ Showing you all how a commit is made
 A second commit for git log explanation
 
 Change made for diffing output
-
-
-Showing you all how a commit is made
-
-A second commit for git log explanation
-
-Change made for diffing output
