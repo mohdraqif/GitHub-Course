@@ -1,1 +1,3 @@
 Hello from the sales branch
+
+This is a new modification for scenario 2
