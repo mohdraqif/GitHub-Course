@@ -1,5 +1,5 @@
-Hello and welcome from the main banch
-Hello and welcome from the main banch
+Hello and welcome
+Hello and welcome
 Hello and welcome from the main banch
 Hello from the main banch
 Hello from the main banch
@@ -9,3 +9,4 @@ Hello from the test branch
 Hello from the test branch
 Hello this is a demo
 Hello this is going to conflict
+Welcome to another merge conflict resolution
